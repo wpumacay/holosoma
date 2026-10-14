@@ -43,3 +43,6 @@ wandb-metadata.json
 
 # BAZEL build artifacts
 BUILD.bazel
+
+/typings
+/references
